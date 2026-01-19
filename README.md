@@ -32,8 +32,3 @@ python roleta_moedas.py
 O país sorteado pelo aluno 15 é Portugal. A sua moeda é Euro (€) e o Índice é 579067.17.
 ```
 
-**Nota:**
-O programa é resistente a mudanças na estrutura de moedas da API e funciona para qualquer país retornado.
-
-```
-```
